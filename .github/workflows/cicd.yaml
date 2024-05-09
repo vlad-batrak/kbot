@@ -3,10 +3,10 @@ name: KBOT-CICD
 on:
   push:
     branches:
-      - develop
+      - main
 
 env:
-  APP: "telegram-bot"
+  APP: "kbot"
   REGISTRY: ghcr.io/${{ github.actor }}
   TARGET_OS: linux
   TARGET_ARCH: amd64
