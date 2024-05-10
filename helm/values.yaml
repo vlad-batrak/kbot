@@ -6,7 +6,7 @@ replicaCount: 1
 image:
   registry: "ghcr.io"
   repository: "vladbatrak/kbot"
-  tag: "v1.0.4-d971ce0"
+  tag: "v1.0.4-623cced"
   os: "linux"
   arch: "amd64"
 secret:
