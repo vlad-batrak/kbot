@@ -5,8 +5,7 @@
 replicaCount: 1
 image:
   registry: "ghcr.io"
-  repository: "vladbatrak/telegram-bot"
-  # appname: "telegram-bot"
+  repository: "vladbatrak/kbot"
   tag: "v1.0.4-d971ce0"
   os: "linux"
   arch: "amd64"
