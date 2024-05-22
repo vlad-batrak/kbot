@@ -4,8 +4,8 @@
 
 replicaCount: 1
 image:
-  registry: "ghcr.io"
-  repository: "vladbatrak/kbot"
+  # registry: "ghcr.io"
+  repository: "ghcr.io/vlad-batrak"
   tag: "v1.0.4-8271380"
   os: "linux"
   arch: "amd64"
