@@ -6,7 +6,7 @@ replicaCount: 1
 image:
   # registry: "ghcr.io"
   repository: "ghcr.io/vlad-batrak"
-  tag: "v1.0.4-4135729"
+  tag: "v1.0.4-22cc844"
   os: "linux"
   arch: "amd64"
 secret:
