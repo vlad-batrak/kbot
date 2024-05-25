@@ -4,8 +4,8 @@
 
 replicaCount: 1
 image:
-  # registry: "ghcr.io"
-  repository: "ghcr.io/vlad-batrak"
+  registry: "ghcr.io"
+  repository: "vlad-batrak"
   tag: "v1.0.4-0e5e614"
   os: "linux"
   arch: "amd64"
